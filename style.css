@@ -1,12 +1,12 @@
 body {
     margin: 0;
-    padding: 0;
+    padding: 20px;
     font-family: Arial, sans-serif;
     background: #ffeaf3;
 
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
 
     height: 100vh;
 }
